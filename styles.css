@@ -1,0 +1,46 @@
+.navbar{
+    display: flex;
+    justify-content:left;
+    gap: 15px;
+}
+.listandad{
+    display: flex;
+    justify-content: left;
+    gap: 200px;
+}
+.products{
+    display: flex;
+    justify-content: left;
+    gap: 15px;
+}
+.product{
+    text-align: center;
+}
+.discount{
+    background: #DB4444;
+    color: white;
+    padding: 3px 7px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.products2{
+    display: flex;
+    justify-content: left;
+    gap: 15px;
+}
+.product2{
+    text-align: center;
+}
+.speakerad{
+    display: flex;
+    justify-content: center;
+}
+.products3{
+    display: flex;
+    justify-content:left;
+    gap: 20px;
+}
+.product3{
+    text-align: center;
+}
